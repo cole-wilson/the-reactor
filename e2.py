@@ -11,7 +11,7 @@ for c, i in enumerate(files):
 			"image": open(name+'.png','rb').read(),
 			"name": name,
 			"mode": "data",
-			"token":"xoxc-2210535565-1209058245505-2323839300594-090fb62cd8d86a2eaf574b4b1c553ae5a1b9fe73ea0f290de3043dd39154d6bf",
+			"token":"XXXX",
 			"_x_reason": "customize-emoji-add",
 			"_x_mode": "online",
 		},
